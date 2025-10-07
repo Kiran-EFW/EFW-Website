@@ -1,0 +1,7 @@
+@import url('/styles/normalize.css');
+@import url('/styles/webflow.css');
+@import url('/styles/efw-project.webflow.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
